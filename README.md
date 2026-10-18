@@ -5,10 +5,10 @@
   </picture>
   <br />
   <p align="center">
-    <a href="https://mehdispace.com"><img height="24" src="https://img.shields.io/badge/Portfolio-f47a08?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/merafiee/"><img height="24" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:contact@mehdispace.com"><img height="24" src="https://img.shields.io/badge/Email-30363d?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
-    <img height="24" src="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=%E2%97%89%20VIEWS&amp;labelColor=%232a2f36&amp;countColor=%23f47a08" alt="Profile views" />
+    <a href="https://mehdispace.com"><img height="24" align="middle" src="https://img.shields.io/badge/Portfolio-f47a08?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/merafiee/"><img height="24" align="middle" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:contact@mehdispace.com"><img height="24" align="middle" src="https://img.shields.io/badge/Email-30363d?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+    <img height="24" align="middle" src="https://vbr.nathanchung.dev/badge?page_id=mehdicodespace.me-profile&amp;text=VIEWS&amp;lcolor=2a2f36&amp;color=f47a08&amp;style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA1Yy01IDAtOS4yNyAzLjExLTExIDcgMS43MyAzLjg5IDYgNyAxMSA3czkuMjctMy4xMSAxMS03Yy0xLjczLTMuODktNi03LTExLTd6bTAgMTJhNSA1IDAgMSAxIDAtMTAgNSA1IDAgMCAxIDAgMTB6bTAtMi4yYTIuOCAyLjggMCAxIDAgMC01LjYgMi44IDIuOCAwIDAgMCAwIDUuNnoiLz48L3N2Zz4A&amp;logoColor=white" alt="Profile views" />
   </p>
 </div>
 
