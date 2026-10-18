@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 1100px)" srcset="./assets/mehdi-signal-compact.svg" />
-    <img src="./assets/mehdi-signal.svg" alt="Mehdi Rafiei — Senior Front-End Developer" width="100%" />
+    <source media="(max-width: 1100px)" srcset="./assets/mehdi-signal-compact-rounded.svg" />
+    <img src="./assets/mehdi-signal-rounded.svg" alt="Mehdi Rafiei — Senior Front-End Developer" width="100%" />
   </picture>
   <br />
   <p align="center">
