@@ -4,7 +4,7 @@
   <a href="https://mehdispace.com"><img src="https://img.shields.io/badge/Portfolio-mehdispace.com-f47a08?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/merafiee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-20232a?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:contact@mehdispace.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-20232a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mehdicodespace&style=flat-square&color=f47a08&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=PROFILE%20VIEWS&amp;labelColor=%232a2f36&amp;countColor=%23f47a08" alt="Profile views" />
 </div>
 
 ## Building interfaces people rely on.
