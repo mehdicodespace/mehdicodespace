@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./assets/mehdi-signal.svg" alt="Mehdi Rafiei — Senior Front-End Developer" width="100%" />
   <br />
+  <br />
   <p align="center">
     <a href="https://mehdispace.com"><img height="28" src="https://img.shields.io/badge/Portfolio-View%20site-f47a08?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — view site" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/merafiee/"><img height="28" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn — connect" /></a>&nbsp;&nbsp;
