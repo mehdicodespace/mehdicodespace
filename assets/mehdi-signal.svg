@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mehdi Rafiei — Senior Front-End Developer</title>
+  <desc id="desc">A dark, technical banner with a fine grid and an animated orange signal moving through interface nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15191e" />
+      <stop offset="1" stop-color="#20252b" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f47a08" stop-opacity=".12" />
+      <stop offset=".52" stop-color="#f47a08" />
+      <stop offset="1" stop-color="#ffd09e" stop-opacity=".58" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035" stroke-width="1" />
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f47a08" stop-opacity=".2" />
+      <stop offset="1" stop-color="#f47a08" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)" />
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" />
+  <ellipse cx="948" cy="154" rx="280" ry="190" fill="url(#glow)" />
+  <path d="M0 1H1200" stroke="#f47a08" stroke-opacity=".8" stroke-width="2" />
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="83" fill="#f47a08" font-size="15" font-weight="600" letter-spacing="4">MEHDI RAFIEI  /  FRONT-END ENGINEER</text>
+    <text x="68" y="151" fill="#f4f6f8" font-size="47" font-weight="700" letter-spacing="-1.4">Interfaces built</text>
+    <text x="68" y="207" fill="#f4f6f8" font-size="47" font-weight="700" letter-spacing="-1.4">for the real world.</text>
+    <text x="72" y="252" fill="#aab2bb" font-size="17" letter-spacing=".4">Vue · Nuxt · React · Next.js · TypeScript</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M650 212H720L759 173H832L874 214H944L1001 142H1078L1110 110H1200" stroke="#f47a08" stroke-opacity=".18" stroke-width="14" />
+    <path d="M650 212H720L759 173H832L874 214H944L1001 142H1078L1110 110H1200" stroke="url(#line)" stroke-width="2" stroke-dasharray="12 9">
+      <animate attributeName="stroke-dashoffset" from="0" to="-84" dur="5s" repeatCount="indefinite" />
+    </path>
+    <path d="M650 212H720L759 173H832L874 214H944L1001 142H1078L1110 110H1200" stroke="#ffc17f" stroke-opacity=".18" stroke-width="1" />
+  </g>
+  <g fill="#20252b" stroke="#f47a08" stroke-width="2">
+    <circle cx="720" cy="212" r="5" />
+    <circle cx="759" cy="173" r="5" />
+    <circle cx="832" cy="173" r="5" />
+    <circle cx="874" cy="214" r="5" />
+    <circle cx="944" cy="214" r="5" />
+    <circle cx="1001" cy="142" r="5" />
+    <circle cx="1078" cy="142" r="5" />
+    <circle cx="1110" cy="110" r="5" />
+  </g>
+  <circle r="6" fill="#ffd09e" filter="url(#softGlow)">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M650 212H720L759 173H832L874 214H944L1001 142H1078L1110 110H1200" />
+  </circle>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".09" />
+</svg>
