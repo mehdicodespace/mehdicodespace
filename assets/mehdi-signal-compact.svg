@@ -26,7 +26,7 @@
   <rect width="900" height="520" rx="20" fill="url(#bg)" />
   <rect width="900" height="520" rx="20" fill="url(#grid)" />
   <ellipse cx="700" cy="360" rx="360" ry="240" fill="url(#glow)" />
-  <path d="M0 1H900" stroke="#f47a08" stroke-opacity=".8" stroke-width="2" />
+  <path d="M20 1H880" stroke="#f47a08" stroke-opacity=".8" stroke-width="2" stroke-linecap="round" />
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
     <text x="60" y="82" fill="#f47a08" font-size="19" font-weight="600" letter-spacing="4">MEHDI RAFIEI  /  FRONT-END ENGINEER</text>
