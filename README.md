@@ -5,10 +5,11 @@
   </picture>
   <br />
   <p align="center">
-    <a href="https://mehdispace.com"><img height="24" src="https://img.shields.io/badge/Portfolio-View%20site-30363d?style=flat-square&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=f47a08" alt="Portfolio — view site" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/merafiee/"><img height="24" src="https://img.shields.io/badge/LinkedIn-Connect-30363d?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0A66C2" alt="LinkedIn — connect" /></a>&nbsp;
-    <a href="mailto:contact@mehdispace.com"><img height="24" src="https://img.shields.io/badge/Email-Contact-30363d?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=30363d" alt="Email — contact" /></a>&nbsp;
-    <img height="24" src="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=VIEWS&amp;labelColor=%232a2f36&amp;countColor=%23f47a08" alt="Profile views" />
+    <a href="https://mehdispace.com"><img height="24" src="https://img.shields.io/badge/Portfolio-f47a08?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/merafiee/"><img height="24" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="mailto:contact@mehdispace.com"><img height="24" src="https://img.shields.io/badge/Email-30363d?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+    <br /><br />
+    <img height="20" src="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=PROFILE%20VIEWS&amp;labelColor=%232a2f36&amp;countColor=%2330363d" alt="Profile views" />
   </p>
 </div>
 
