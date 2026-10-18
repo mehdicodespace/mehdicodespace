@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" viewBox="0 0 120 28" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile views</title>
+  <desc id="desc">A custom signal-themed profile view counter with a live count.</desc>
+  <defs>
+    <clipPath id="count-area" clipPathUnits="userSpaceOnUse">
+      <path d="M73.6 0H106a14 14 0 0 1 14 14v0a14 14 0 0 1-14 14H73.6z" />
+    </clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="119" height="27" rx="6" fill="#20252b" stroke="#414850" />
+  <path d="M12 14c3.6-4.8 10.6-4.8 14.2 0-3.6 4.8-10.6 4.8-14.2 0Z" fill="none" stroke="#f47a08" stroke-width="1.45" />
+  <circle cx="19.1" cy="14" r="2.2" fill="#f47a08" />
+  <path d="M28.5 17.5h3l2-7 2.2 7 1.7-4h1.7" fill="none" stroke="#f47a08" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="43" y="17.7" fill="#e6e9ed" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="600" letter-spacing=".8">VIEWS</text>
+  <image href="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=VIEWS&amp;labelColor=%2320252b&amp;countColor=%23f47a08" x="0" y="0" width="120" height="28" preserveAspectRatio="none" clip-path="url(#count-area)" />
+  <rect x=".5" y=".5" width="119" height="27" rx="6" fill="none" stroke="#ffffff" stroke-opacity=".06" />
+</svg>
