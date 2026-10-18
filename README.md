@@ -1,9 +1,10 @@
 <div align="center">
   <img src="./assets/mehdi-signal.svg" alt="Mehdi Rafiei — Senior Front-End Developer" width="100%" />
+  <br />
   <p align="center">
-    <a href="https://mehdispace.com"><img height="28" src="https://img.shields.io/badge/Portfolio-View%20site-f47a08?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — view site" /></a>
-    <a href="https://www.linkedin.com/in/merafiee/"><img height="28" src="https://img.shields.io/badge/LinkedIn-Connect-20232a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn — connect" /></a>
-    <a href="mailto:contact@mehdispace.com"><img height="28" src="https://img.shields.io/badge/Email-Contact-20232a?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email — contact" /></a>
+    <a href="https://mehdispace.com"><img height="28" src="https://img.shields.io/badge/Portfolio-View%20site-f47a08?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — view site" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/merafiee/"><img height="28" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn — connect" /></a>&nbsp;&nbsp;
+    <a href="mailto:contact@mehdispace.com"><img height="28" src="https://img.shields.io/badge/Email-Contact-30363d?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email — contact" /></a>&nbsp;&nbsp;
     <img height="28" src="https://api.visitorbadge.io/api/VisitorHit?user=mehdicodespace&amp;repo=mehdicodespace&amp;label=PROFILE%20VIEWS&amp;labelColor=%232a2f36&amp;countColor=%23f47a08" alt="Profile views" />
   </p>
 </div>
@@ -14,13 +15,8 @@ I’m **Mehdi Rafiei**, a senior front-end developer with **8+ years** building 
 
 I work across API integration, real-time data, testing, and delivery, bringing product UI and system constraints together.
 
-### What I work with
+### Supporting toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts" alt="Vue, Nuxt, React, Next.js, TypeScript" />
-</p>
-
-**Core:** Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Pinia, Redux<br />
 **UI & testing:** Tailwind CSS, UnoCSS, SCSS, Vitest, Cypress, Jest<br />
 **Product engineering:** REST APIs, WebSockets, Server-Sent Events, performance, accessibility, i18n
 
