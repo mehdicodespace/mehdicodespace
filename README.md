@@ -14,14 +14,9 @@
 
 ## Building interfaces people rely on.
 
-I’m **Mehdi Rafiei**, a senior front-end developer with **8+ years** building production products across fintech, crypto, e-commerce, and real estate. I specialize in **Vue/Nuxt** and **React/Next.js** with TypeScript, shaping complex product needs into fast, intuitive interfaces.
+I’m **Mehdi Rafiei**, a senior front-end developer with **8+ years** building products across fintech, crypto, e-commerce, and real estate. I specialize in **Vue/Nuxt** and **React/Next.js** with TypeScript, turning complex product flows into clear, fast, production-ready interfaces.
 
-I work across API integration, real-time data, testing, and delivery, bringing product UI and system constraints together.
-
-### Supporting toolkit
-
-**UI & testing:** Tailwind CSS, UnoCSS, SCSS, Vitest, Cypress, Jest<br />
-**Product engineering:** REST APIs, WebSockets, Server-Sent Events, performance, accessibility, i18n
+From API integrations and real-time data to performance and accessibility, I focus on the engineering behind a dependable user experience.
 
 ### Selected work
 
@@ -34,7 +29,7 @@ I work across API integration, real-time data, testing, and delivery, bringing p
 | [Customer Registry](https://github.com/mehdicodespace/customer-registry-web) · [Live demo](https://customer-registery-mehdispace.netlify.app/) | Vue 3 · Firebase Auth · scoped data and theme switching |
 | [CSS Orbit Animation](https://github.com/mehdicodespace/css-circular-orbit-animation) | CSS-only orbital animation for technology icons |
 
-My production work applies the same focus to fintech, trading, and consumer products. [Explore more projects →](https://mehdispace.com/portfolios)
+For a broader look at my production work across fintech, trading, and consumer products, [explore my portfolio →](https://mehdispace.com/portfolios).
 
 ### Engineering highlights
 
