@@ -27,11 +27,11 @@ I work across API integration, real-time data, testing, and delivery, bringing p
 
 | Project | What it shows |
 | --- | --- |
-| [Personal website](https://github.com/mehdicodespace/personal-website-nuxt) | Nuxt 3 · Vue 3 · portfolio, galleries, and technical blog |
+| [Personal website](https://github.com/mehdicodespace/personal-website-nuxt) · [Live demo](https://mehdispace.com/) | Nuxt 3 · Vue 3 · portfolio, galleries, and technical blog |
 | [Skycast Weather](https://github.com/mehdicodespace/skycast-weather) · [Live demo](https://skycast-weather-mehdispace.netlify.app/) | React 19 · TypeScript · TanStack Query · validated API data, cached forecasts, and geolocation |
 | [Kanban Workspace](https://github.com/mehdicodespace/kanban-workspace) · [Live demo](https://kanban-mehdispace.netlify.app/) | Vue 3 · Pinia · Firebase Auth/Firestore · private boards, drag-and-drop, and validated access rules |
-| [Countries Explorer](https://github.com/mehdicodespace/countries-explorer) | Vue 3 · TypeScript · tested search and filtering |
-| [Customer Registry](https://github.com/mehdicodespace/customer-registry-web) | Vue 3 · Firebase Auth · scoped data and theme switching |
+| [Countries Explorer](https://github.com/mehdicodespace/countries-explorer) · [Live demo](https://countries-explorer-mehdispace.netlify.app/) | Vue 3 · TypeScript · tested search and filtering |
+| [Customer Registry](https://github.com/mehdicodespace/customer-registry-web) · [Live demo](https://customer-registery-mehdispace.netlify.app/) | Vue 3 · Firebase Auth · scoped data and theme switching |
 | [CSS Orbit Animation](https://github.com/mehdicodespace/css-circular-orbit-animation) | CSS-only orbital animation for technology icons |
 
 My production work applies the same focus to fintech, trading, and consumer products. [Explore more projects →](https://mehdispace.com/portfolios)
