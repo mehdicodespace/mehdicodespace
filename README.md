@@ -23,6 +23,7 @@ From API integrations and real-time data to performance and accessibility, I foc
 | Project | What it shows |
 | --- | --- |
 | [Personal website](https://github.com/mehdicodespace/personal-website-nuxt) · [Live demo](https://mehdispace.com/) | Nuxt 3 · Vue 3 · portfolio, galleries, and technical blog |
+| [ReplyLane](https://github.com/mehdicodespace/replylane) · [Live demo](https://replylane.netlify.app/) | Next.js · React · TypeScript · Firebase · OAuth/IMAP sync, AI email triage, and Telegram alerts |
 | [Skycast Weather](https://github.com/mehdicodespace/skycast-weather) · [Live demo](https://skycast-weather-mehdispace.netlify.app/) | React 19 · TypeScript · TanStack Query · validated API data, cached forecasts, and geolocation |
 | [Kanban Workspace](https://github.com/mehdicodespace/kanban-workspace) · [Live demo](https://kanban-mehdispace.netlify.app/) | Vue 3 · Pinia · Firebase Auth/Firestore · private boards, drag-and-drop, and validated access rules |
 | [Countries Explorer](https://github.com/mehdicodespace/countries-explorer) · [Live demo](https://countries-explorer-mehdispace.netlify.app/) | Vue 3 · TypeScript · tested search and filtering |
